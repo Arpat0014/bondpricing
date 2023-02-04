@@ -22,4 +22,4 @@ hello world! hello git
 hello world! hello git
 hello world! hello git
 hello world! hello git
-branch hot-fix
+branch master
